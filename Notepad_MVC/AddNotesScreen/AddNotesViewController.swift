@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  AddNotesViewController.swift
 //  Notepad_MVC
 //
-//  Created by SaiKiran Panuganti on 20/07/21.
+//  Created by SaiKiran Panuganti on 22/07/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class AddNotesViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-
